@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi 👋, I'm Olofin Iyiola Oluwaseun</h1>
 
 <h3 align="center">
@@ -37,9 +36,11 @@ Passionate about transforming raw data into actionable insights using Excel, Pyt
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olofiniyiola" height="30" width="40" />
 </a>
 
-<a href="www.linkedin.com/in/olofiniyiola" target="blank">
+<a href="https://linkedin.com/in/your-linkedin-url" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-
-
+<a href="https://fb.com/your-facebook-url" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+</a>
+</p>
