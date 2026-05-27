@@ -18,7 +18,7 @@ Passionate about transforming raw data into actionable insights using Excel, Pyt
 
 - 💬 Ask me about **Power BI, SQL, Excel, Python, and Data Visualization**
 
-- 📫 How to reach me: **honournwealth@gmail.com**
+- 📫 How to reach me: **olofinio@funaab.edu.ng / honournwealth@gmail.com**
 
 <h3 align="left">🛠️ Tools & Technologies:</h3>
 
