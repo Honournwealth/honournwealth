@@ -1,7 +1,3 @@
-Your current GitHub profile is focused on **cybersecurity**, but based on your recent projects and skills, your profile should better reflect your strength as a **Data Analyst** while still mentioning your cybersecurity interest if you want.
-
-Here’s a cleaner and more professional version you can replace it with:
-
 ```html
 <h1 align="center">Hi 👋, I'm Olofin Iyiola Oluwaseun</h1>
 
