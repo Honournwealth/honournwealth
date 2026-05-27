@@ -37,28 +37,9 @@ Passionate about transforming raw data into actionable insights using Excel, Pyt
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olofiniyiola" height="30" width="40" />
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin-url" target="blank">
+<a href="www.linkedin.com/in/olofiniyiola" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="https://fb.com/your-facebook-url" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-</a>
-</p>
-```
 
-This version:
 
-* Looks more professional
-* Matches your Power BI/data projects
-* Improves recruiter visibility
-* Uses cleaner formatting
-* Highlights your core tools properly
-* Makes your GitHub look like a real data analyst portfolio
-
-Also replace:
-
-* `your-linkedin-url`
-* `your-facebook-url`
-
-with your actual profile links.
